@@ -1,2 +1,4 @@
 # UwU-101
-I like to Work So Use Me
+Starting A New Project In Order To Make a Game
+
+Games: Snake, Others
